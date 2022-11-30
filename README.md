@@ -1,2 +1,1 @@
-# Addition-Streamlit
-Parth Bansal, 21f3000805
+# Multiplication of numbers-Streamlit
